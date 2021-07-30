@@ -1,10 +1,12 @@
-### Eai! Eu sou o Francisvan Oliveira 👋
+### Eai blz!✌️ Eu sou o Francisvan Oliveira 👋
 
 
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando Análise e desenvolvimento de sistemas / Ciência da Computação
 - 💬 Contato: francisvan.oliveira@gmail.com
-- 🔍 Curioso e sempre disposto a aprender
+- 🔍 Sempre disposto a aprender
+- 🤩 Amante por tecnologia
+- ☕ Amante de café
 
 <div>
   <a href="https://github.com/francisvanoliveira">
