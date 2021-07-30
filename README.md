@@ -6,7 +6,7 @@
 - 💬 Contato: francisvan.oliveira@gmail.com
 - 🔍 Sempre disposto a aprender
 - 🤩 Amante por tecnologia
-- ☕ Amante de café
+- ☕ Amante por café
 
 <div>
   <a href="https://github.com/francisvanoliveira">
