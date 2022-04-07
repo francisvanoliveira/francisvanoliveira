@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estudante de Análise e desenvolvimento de sistemas / Ciência da Computação
+- 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 📧 Contato: francisvan.oliveira@francisvanoliveira.com.br
 - 📜 Portfólio: <a href="https://francisvanoliveira.com.br/" target="_blank">francisvanoliveira.com.br</a>
 - 🔍 Sempre disposto a aprender
