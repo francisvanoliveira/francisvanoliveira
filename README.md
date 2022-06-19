@@ -1,11 +1,11 @@
 ### Eai blz!✌️ Eu sou o Francisvan Oliveira 👋
 
 
-- 🔭 Hoje trabalho como Analista de Suporte
+- 🔭 -
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
+- 🔍 Sempre disposto a aprender
 - 📧 Contato: francisvan.oliveira@francisvanoliveira.com.br
 - 📜 Portfólio: <a href="https://francisvanoliveira.com.br/" target="_blank">francisvanoliveira.com.br</a>
-- 🔍 Sempre disposto a aprender
 - 🤩 Amante por tecnologia
 - ☕ Amante por café
 
