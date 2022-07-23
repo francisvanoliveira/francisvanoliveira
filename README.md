@@ -9,13 +9,6 @@
 - 📜 Aqui mostro o que estou aprendendo ➡️ <a href="https://francisvanoliveira.com.br/" target="_blank">francisvanoliveira.com.br</a>
 - 🤩 Entusiasta por tecnologia
 - ☕ Amante por café
-
-<div>
-  <a href="https://github.com/francisvanoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisvanoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisvanoliveira&layout=compact&langs_count=7&theme=tokyonight"/>   
-  </a>
-</div>
   
  ##
   
