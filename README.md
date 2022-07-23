@@ -3,10 +3,12 @@
 
 - 🔭 -
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
+- 🪲 Estudando Teste de Software
+- 💻 Desenvolvedor Web
 - 🔍 Sempre disposto a aprender
 - 📧 Contato: francisvan.oliveira@francisvanoliveira.com.br
 - 📜 Portfólio: <a href="https://francisvanoliveira.com.br/" target="_blank">francisvanoliveira.com.br</a>
-- 🤩 Amante por tecnologia
+- 🤩 Entusiasta por tecnologia
 - ☕ Amante por café
 
 <div>
