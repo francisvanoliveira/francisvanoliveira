@@ -2,6 +2,7 @@
 
 
 - 🌱 Analista de Sistema
+- 📱 Especializando em Desenvolvimento Mobile
 - 💻 Desenvolvedor Web Jr
 - 🔍 Sempre disposto a aprender
 - 📧 Caso queira entrar em contato comigo ➡️ francisvan.oliveira@francisvanoliveira.com.br
